@@ -1,0 +1,23 @@
+{
+  "name": "Scrim-s06ipka",
+  "description": "https://scrimba.com/the-frontend-developer-career-path-c0j/~04ur/s0ut829opv/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.33.1",
+    "@huggingface/inference": "^2.8.1",
+    "dotenv": "^16.4.7",
+    "openai": "^4.77.0",
+    "react": "19.0.0-rc-8b08e99e-20240713",
+    "react-dom": "19.0.0-rc-8b08e99e-20240713",
+    "react-markdown": "^8.0.6",
+    "vite": "^6.0.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "*"
+  }
+}

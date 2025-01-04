@@ -1,2 +1,6 @@
-# Chef_Claude_App
- 
+# Getting Started
+Install the dependencies and run the project
+```
+npm install
+npm run dev
+```
